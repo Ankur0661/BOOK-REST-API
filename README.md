@@ -5,8 +5,8 @@ Perform crud on the following table using Spring Boot
 **Book will contain this information :**
 
 ```
-		Book Id : 101,
-		name: "C++",
+    Book Id : 101,
+    name: "C++",
     author: "Nitesh",
     publication: "Rajput Publication",
     category: "Computer Programming",
